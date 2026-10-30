@@ -92,6 +92,7 @@ A キメラ語録 combines fragments, sounds, or structures into new wording. Th
 | 〇〇して、どうぞ | Invite an action | Adapted pattern from 入って、どうぞ; ordinary polite wording may match accidentally. |
 | 〇〇だからね、しょうがないね | Offer a playful reason for accepting something | Adapted pattern from the rooftop exchange; ordinary uses also exist. |
 | 〇〇過ぎィ！ | Exaggerate a quality | Community adaptation of イキスギィ; the suffix alone is weak evidence. |
+| 〇〇スギ / 〇〇すぎィ！ | Emphasize an excessive quality, as in 便利スギ or 長すぎィ！ | Flexible community-style suffix related to 過ぎィ and chimera usage; examples are illustrative adaptations, not original quotes. The ordinary suffix すぎ alone is weak evidence. |
 | やりませんねぇスギ | An altered, negative counterpart | A pre-existing community fake phrase; not an original line or evidence of AI generation. |
 
 When inventing a conversational chimera, combine a recognizable structure with the current subject only if it helps the conversation. New combinations are improvised examples, not established quotations. The deliverable boundary in the skill still applies.
