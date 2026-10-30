@@ -44,6 +44,8 @@ This grouping is approximate and overlaps with other Inmu categories. Use expres
 | 監督: なんだこれは、たまげたなあ | React with surprise | Fan lists attribute this to a director; shortened versions are less distinctive. |
 | MYN: えっ、それは… | Express hesitation | Attributed to MYN; extremely ordinary without other cues. |
 | 配達員 / MYN: すいません許してください！何でもしますから！ | Exaggerated apology | Fan lists identify the speaker as 配達員 or MYN; original context is sensitive. |
+| 虐待おじさん: 動くと当たらないだろ！？ / 動くと当たらないだろォ！ | Complain humorously when a moving target is difficult to hit | From *悶絶少年 其の伍*; used in gameplay commentary. The original scene is coercive, and ordinary similar wording can be coincidental. |
+| 虐待おじさん: 真ん中来いよ！ | Ask for something to be centered | Attributed to the same work; the imperative can sound harsh and is also ordinary speech. |
 
 ## クッキー☆: RU, UDK, and other characters
 
@@ -95,6 +97,19 @@ A キメラ語録 combines fragments, sounds, or structures into new wording. Th
 | 〇〇スギ / 〇〇すぎィ！ | Emphasize an excessive quality, as in 便利スギ or 長すぎィ！ | Flexible community-style suffix related to 過ぎィ and chimera usage; examples are illustrative adaptations, not original quotes. The ordinary suffix すぎ alone is weak evidence. |
 | やりませんねぇスギ | An altered, negative counterpart | A pre-existing community fake phrase; not an original line or evidence of AI generation. |
 
+## Community copypasta: FF外から失礼するゾ〜
+
+This is a community-made social-media copypasta built from several expressions, not a line spoken in the original video. Its familiar pieces can be adapted individually; the examples below are illustrative modifications, not original quotations. Use them in direct conversation, not as authorization to send unsolicited messages or put meme wording into a deliverable.
+
+| Expression / pattern | Meaning / use | Provenance and ambiguity |
+| --- | --- | --- |
+| FF外から失礼するゾ〜（謝罪） | Playfully introduce an interruption or an unsolicited comment | Opening of a community copypasta; FF外 ordinarily refers to people outside a mutual-follow relationship. Ordinary polite forms are not sufficient evidence of the meme. |
+| この〇〇、面白スギィ！ | Strongly praise or react to a topic | Adapted from the copypasta's exaggerated reaction to a post; the object and adjective are replaceable. |
+| 自分、〇〇いいっすか？ | Playfully ask permission or propose an action | Adaptation of the copypasta's request to repost; ordinary informal requests can coincide. Respect real permission requirements. |
+| 〇〇のリストにぶち込んでやるぜー | Comically suggest adding an item to a list | Adaptation of the copypasta's list phrase; literal list operations and aggressive uses require context. |
+| いきなり〇〇してすみません！ | Apologize for an abrupt action | Adapted from the copypasta's apology for a reply; ordinary apologies alone are ambiguous. |
+| 何でもしますから！ / （何でもするとは言ってない） | Exaggerate an apology, sometimes followed by a comic qualification | The apology is an older related-work phrase; the parenthetical is a community addition. Neither should be treated as a literal commitment. |
+
 When inventing a conversational chimera, combine a recognizable structure with the current subject only if it helps the conversation. New combinations are improvised examples, not established quotations. The deliverable boundary in the skill still applies.
 
 ## Sources
@@ -108,5 +123,7 @@ When inventing a conversational chimera, combine a recognizable structure with t
 - [Later use and uncertain origin of a タクヤ-style expression](https://services.awaisora.com/2026/08/31/79c06e85-f5cd-4c7c-8f35-c30846ca1631/)
 - [Background on a circulating fake phrase](https://word-dictionary.jp/posts/6150/)
 - [Community description of chimera editing](https://note.com/nemess/n/n0ab3fceabf03)
+- [Background on the moving-target phrase](https://wiki.yjsnpi.nu/wiki/%E5%8B%95%E3%81%8F%E3%81%A8%E5%BD%93%E3%81%9F%E3%82%89%E3%81%AA%E3%81%84%E3%81%A0%E3%82%8D%EF%BC%81)
+- [Background on the FF外 copypasta](https://wiki.yjsnpi.nu/wiki/FF%E5%A4%96%E3%81%8B%E3%82%89%E5%A4%B1%E7%A4%BC%E3%81%99%E3%82%8B%E3%82%BE%EF%BD%9E%EF%BC%88%E8%AC%9D%E7%BD%AA%EF%BC%89)
 
 These are secondary sources. Attribution can be contested and a source documenting a use does not necessarily prove first use. Some links discuss adult works.

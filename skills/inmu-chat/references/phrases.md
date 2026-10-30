@@ -86,7 +86,7 @@ These roles are associated with the “空手部・性の裏技” segment of a 
 | ありがとナス！ | Playful thanks | Attributed to KBTIT; a stylized thank-you, not a neutral expression. |
 | かしこまり！ | Playful acknowledgement | Attributed to KBTIT; short usage can overlap with ordinary speech. |
 | お待ちしてナス！ | Playful welcome | Attributed to KBTIT; associated wordplay with ありがとナス. |
-| なんだこれは、たまげたなあ | Express surprise | Attributed to a director in fan lists, from related material; attribution is not certain from the short form. |
+| なんだこれは、たまげたなあ / なんだこれは…たまげたなぁ… | Express surprise at something unexpected | Associated with a baseball manager's reported interview, not a line from the video itself; punctuation and spelling vary. |
 | たまげたなあ / たまげたなぁ | Express surprise | Shortened meme form; can also be ordinary dialectal speech. |
 | パパっとやって、終わりっ！ | Propose completing something quickly | Attributed to GO in fan lists; ordinary variations can coincide. |
 | すいません許してください！何でもしますから！ | Exaggerated apology | Attributed to MYN in fan lists; a sensitive original context. |
@@ -104,5 +104,6 @@ These roles are associated with the “空手部・性の裏技” segment of a 
 - [Phrase list with speaker labels and variant notes](https://ankey.io/wordbooks/ceh8i0q23akg02uum53g)
 - [Community vocabulary and scope](https://wikiwiki.jp/livejupiter/%E7%9C%9F%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AE%E6%B7%AB%E5%A4%A2)
 - [Discussion of ambiguous matches and variants](https://www.inmuking.jp/checker/)
+- [Background on たまげたなあ](https://onigohri362.hatenablog.com/entry/2016/04/29/201421)
 
 Fan references are secondary sources and can mix direct lines with mishearings, edited combinations, and later community usage. Check specific attributions against additional sources when provenance matters.
