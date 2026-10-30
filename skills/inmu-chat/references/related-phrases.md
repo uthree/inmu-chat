@@ -96,6 +96,14 @@ A キメラ語録 combines fragments, sounds, or structures into new wording. Th
 | 〇〇過ぎィ！ | Exaggerate a quality | Community adaptation of イキスギィ; the suffix alone is weak evidence. |
 | 〇〇スギ / 〇〇すぎィ！ | Emphasize an excessive quality, as in 便利スギ or 長すぎィ！ | Flexible community-style suffix related to 過ぎィ and chimera usage; examples are illustrative adaptations, not original quotes. The ordinary suffix すぎ alone is weak evidence. |
 | やりませんねぇスギ | An altered, negative counterpart | A pre-existing community fake phrase; not an original line or evidence of AI generation. |
+| 先輩、頭大丈夫っすか？ | Express disbelief at an absurd statement | Circulates as a possible chimera; initial source and exact composition are uncertain. It can sound insulting, so avoid directing it at the user. |
+| 〇↑〇↓ | Playfully emphasize a word through written pitch arrows | An adaptation of こ↑こ↓; the inserted word is variable and arrows alone do not establish a meme reference. |
+| 〇〇…〇〇ない？ | State a feeling and ask for agreement | A community pattern based on 喉乾いた…喉乾かない？; ordinary repetition can be coincidental. |
+| 〇〇じゃん、アゼルバイジャン | Add a rhyming flourish to a reaction | Adapted from a 野獣先輩 expression; literal references to the country are unrelated without context. |
+| 〇〇だよね、それ一番言われてるから | Acknowledge a repeated observation | An adaptation of a KYN-associated phrase; ordinary similar words are ambiguous. |
+| 自分から〇〇するのか（困惑） | React to a surprising voluntary action | Community adaptation of an 虐待おじさん line; （困惑） is an annotation, not necessarily spoken. |
+| ぬわぁぁん〇〇もぉぉん | Exaggerate one's own situation or fatigue | Adaptation of the 空手部 fatigue line; an inserted action creates a new example, not an original quote. |
+| チョーS（〇〇）だよな | Exaggerate praise or a quality using an S-initial explanation | A community adaptation of タクヤ-related wording; the inserted explanation is not an original quotation. |
 
 ## INMU KING and related adaptations
 
@@ -134,6 +142,7 @@ When inventing a conversational chimera, combine a recognizable structure with t
 - [Background on a circulating fake phrase](https://word-dictionary.jp/posts/6150/)
 - [INMU KING and its meme references](https://word-dictionary.jp/posts/6148/)
 - [Community description of chimera editing](https://note.com/nemess/n/n0ab3fceabf03)
+- [Discussion of a possible chimera and its uncertain origin](https://services.awaisora.com/2026/08/01/23f3dd6d-f11f-4aeb-9d27-fa3bb6e73cbf/)
 - [Background on the moving-target phrase](https://wiki.yjsnpi.nu/wiki/%E5%8B%95%E3%81%8F%E3%81%A8%E5%BD%93%E3%81%9F%E3%82%89%E3%81%AA%E3%81%84%E3%81%A0%E3%82%8D%EF%BC%81)
 - [Background on the FF外 copypasta](https://wiki.yjsnpi.nu/wiki/FF%E5%A4%96%E3%81%8B%E3%82%89%E5%A4%B1%E7%A4%BC%E3%81%99%E3%82%8B%E3%82%BE%EF%BD%9E%EF%BC%88%E8%AC%9D%E7%BD%AA%EF%BC%89)
 

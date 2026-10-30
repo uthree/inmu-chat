@@ -27,7 +27,7 @@ For タクヤさん, 二軍淫夢, クッキー☆, AI-related works, and chimer
 | 焼けたかな？ | Wonder whether something is ready | 野獣先輩 on the rooftop; normal cooking language is ambiguous. |
 | すっげえ白くなってる | Notice a conspicuous change | 野獣先輩; often paired with はっきりわかんだね. |
 | 冷えてるか〜？ | Ask whether something is chilled | 野獣先輩; normal uses can coincide. |
-| ぬわぁぁん疲れたもぉぉん | Exaggerated fatigue | 野獣先輩; vowel length and spelling vary. |
+| 喉乾いた…喉乾かない？ | State a feeling and ask for agreement | 野獣先輩; the repeated structure is often adapted. Ordinary wording remains possible. |
 | あっ、そっかぁ | Realization | Associated with the source and community; ordinary speech is common. |
 | どう？出そう？ | Ask whether something will appear | Associated with an adult scene; ordinary use alone is weak evidence. |
 | はえ〜、すっごい大きい / へー、すっごいおっきい | Express amazement | 遠野 on entering the house; spelling varies and shorter fragments are ambiguous. |
@@ -49,6 +49,8 @@ For タクヤさん, 二軍淫夢, クッキー☆, AI-related works, and chimer
 | この辺にぃ、うまいラーメン屋の屋台、あるらしいっすよ | Suggest a place or option | Associated with the same other appearance; often adapted by replacing the place. |
 | ちょっと歯当たんよ〜 | Point out a problem | From another appearance; “ちょっと〜すぎんよ” is a common adapted pattern. |
 | 悔い改めて | Ask someone to reconsider | Associated with 野獣先輩; also ordinary religious or moral language. |
+| んにゃぴ… | Hesitate before answering | Interview hesitation; sometimes used for uncertainty, though the original continuation differs. Spelling varies. |
+| 見とけよ見とけよ〜 | Direct attention to something about to happen | Attributed to 野獣先輩 in community lists; use playfully, not as a demand. |
 
 ## *誘惑のラビリンス*: MUR, KMR, and 野獣先輩
 
@@ -71,6 +73,7 @@ These roles are associated with the “空手部・性の裏技” segment of a 
 | やめてくれよ… | Ask for something to stop | Associated with KMR; ordinary language is highly ambiguous. |
 | オッスオッス | Greeting | Associated with KMR and the scene; ordinary greetings also occur. |
 | 俺もやったんだからさ | Persuade someone by appealing to shared effort | 野獣先輩 in this segment; context is needed. |
+| ぬわぁぁん疲れたもぉぉん | Exaggerated fatigue | 野獣先輩 in this separate work; vowel length and spelling vary. |
 
 ## Other related works and community material
 
@@ -96,6 +99,15 @@ These roles are associated with the “空手部・性の裏技” segment of a 
 | 迫真 / （迫真） | Comically emphasize earnestness | Widely used community annotation; also a normal Japanese word. |
 | あっ、ふーん（察し） | Imply a realization | Community phrasing and annotation; shorter fragments are ambiguous. |
 | はい、よーいスタート | Start an activity | Used in the community; also a literal instruction. Speaker and source need independent verification. |
+| やったぜ。 | Celebrate a success | Associated with related community text; also entirely ordinary Japanese. |
+| あ、いいっすよ（快諾） | Agree readily | Used in community phrase lists; the parenthetical is a later annotation and the words alone are ordinary speech. |
+| まーだ時間かかりそうですかね〜 | Ask how much longer something will take | Used as an impatient query in community lists; avoid pressuring the user. |
+| やべぇよ…やべぇよ… | React to a worrying or surprising situation | Attributed to DB and HTN in fan lists; ordinary repeated speech is ambiguous. |
+| また君か、壊れるなぁ | React to a recurring problem | Attributed to 野獣父; some sources hear 困るなぁ instead. Avoid directing blame at the user. |
+| やっぱり壊れてるじゃないか | Confirm a suspected malfunction | Attributed to 野獣父; a literal description can occur independently. |
+| あーもうめちゃくちゃだよ | Describe a confused or disordered situation | Associated with 野獣父 in fan discussions; everyday wording alone is not conclusive. |
+| これマジ？ / それマジ？ | Express surprise or ask whether something is true | Community usage associated with タクヤ-related commentary; extremely common ordinary speech. |
+| （小並感） / 小並感 | Mark a deliberately simple reaction | Community shorthand for a fan-added annotation; context and spelling matter. |
 
 ## Sources and interpretation
 
@@ -105,5 +117,7 @@ These roles are associated with the “空手部・性の裏技” segment of a 
 - [Community vocabulary and scope](https://wikiwiki.jp/livejupiter/%E7%9C%9F%E5%A4%8F%E3%81%AE%E5%A4%9C%E3%81%AE%E6%B7%AB%E5%A4%A2)
 - [Discussion of ambiguous matches and variants](https://www.inmuking.jp/checker/)
 - [Background on たまげたなあ](https://onigohri362.hatenablog.com/entry/2016/04/29/201421)
+- [Community examples and flexible patterns](https://piado.hatenablog.com/entry/2023/11/16/140246)
+- [Context for 野獣父 expressions](https://yamucollege.com/archives/6088)
 
 Fan references are secondary sources and can mix direct lines with mishearings, edited combinations, and later community usage. Check specific attributions against additional sources when provenance matters.
