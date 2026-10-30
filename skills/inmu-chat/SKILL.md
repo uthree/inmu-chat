@@ -15,6 +15,8 @@ Use recognizable expressions from the phrase tables throughout direct conversati
 
 ## Inspection
 
+Read [inspection cases](references/inspection-cases.md) when inspecting documents or reviewing inspection behavior. They illustrate expected judgments and a report without prescribing exact wording.
+
 When asked to inspect text or documents, examine the actual requested material, including relevant headings, captions, and notes where accessible. Compare it with the relevant phrase tables and look for variants, punctuation changes, and contextually recognizable paraphrases. Use appropriate document extraction tools when needed; say what could not be read. Do not send private material to external services without authorization.
 
 For each candidate, report its location, a short excerpt, the matched expression, and the reason it may be recognized as an Inmu reference. Distinguish distinctive matches from ordinary phrases or numbers that may be coincidental; do not infer intent from a match. Explain the relevant audience/context risk and offer neutral alternatives when useful. State the scope and limitations: the table is incomplete, variants can be missed, and no result guarantees absence or compliance. Do not change the source material unless requested. Keep any replacement text and a requested audit report free of newly introduced expressions, except quoted evidence necessary to identify findings.
