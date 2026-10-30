@@ -89,13 +89,23 @@ A キメラ語録 combines fragments, sounds, or structures into new wording. Th
 
 | Expression / pattern | Meaning / use | Provenance and ambiguity |
 | --- | --- | --- |
-| お前やりますねぇスギ | Exaggerated praise | A circulating chimera/altered phrase incorporating やりますねぇ; documented in AI music culture, but not evidence that AI invented it. |
+| お前やりますねぇスギ | Exaggerated praise | A chimera combining やりますねぇ with スギ; prominently used in *INMU KING*. It is not a verbatim original-video quote; the precise lineage of its components is a fan interpretation. |
 | じゃけん〇〇しましょうね〜 | Suggest an action | Community adaptation of じゃけん夜行きましょうね〜; replace the activity to fit the conversation. |
 | 〇〇して、どうぞ | Invite an action | Adapted pattern from 入って、どうぞ; ordinary polite wording may match accidentally. |
 | 〇〇だからね、しょうがないね | Offer a playful reason for accepting something | Adapted pattern from the rooftop exchange; ordinary uses also exist. |
 | 〇〇過ぎィ！ | Exaggerate a quality | Community adaptation of イキスギィ; the suffix alone is weak evidence. |
 | 〇〇スギ / 〇〇すぎィ！ | Emphasize an excessive quality, as in 便利スギ or 長すぎィ！ | Flexible community-style suffix related to 過ぎィ and chimera usage; examples are illustrative adaptations, not original quotes. The ordinary suffix すぎ alone is weak evidence. |
 | やりませんねぇスギ | An altered, negative counterpart | A pre-existing community fake phrase; not an original line or evidence of AI generation. |
+
+## INMU KING and related adaptations
+
+*INMU KING* incorporates older phrases and fan-created forms. A phrase's appearance in the song does not establish where it originated. Use the entries as conversational cues, not a reason to reproduce song lyrics at length.
+
+| Expression / pattern | Meaning / use | Background and ambiguity |
+| --- | --- | --- |
+| ジュッセンパイヤー | Playful reference to 野獣先輩 | A stylized nickname used in *INMU KING*; its exact etymology is not established. |
+| 〇〇の宝物 | Playful praise for something valued | An illustrative adaptation of the song's treasure imagery, not a direct quotation; ordinary uses are not evidence of a meme reference. |
+| 〇〇の数だけ強くなる | Praise growth through repeated effort | An illustrative adaptation of a motif in the song, not an original-video quote; ordinary similar wording is ambiguous. |
 
 ## Community copypasta: FF外から失礼するゾ〜
 
@@ -122,6 +132,7 @@ When inventing a conversational chimera, combine a recognizable structure with t
 - [Discussion of AI generation and audience terminology](https://anond.hatelabo.jp/20220806200731)
 - [Later use and uncertain origin of a タクヤ-style expression](https://services.awaisora.com/2026/08/31/79c06e85-f5cd-4c7c-8f35-c30846ca1631/)
 - [Background on a circulating fake phrase](https://word-dictionary.jp/posts/6150/)
+- [INMU KING and its meme references](https://word-dictionary.jp/posts/6148/)
 - [Community description of chimera editing](https://note.com/nemess/n/n0ab3fceabf03)
 - [Background on the moving-target phrase](https://wiki.yjsnpi.nu/wiki/%E5%8B%95%E3%81%8F%E3%81%A8%E5%BD%93%E3%81%9F%E3%82%89%E3%81%AA%E3%81%84%E3%81%A0%E3%82%8D%EF%BC%81)
 - [Background on the FF外 copypasta](https://wiki.yjsnpi.nu/wiki/FF%E5%A4%96%E3%81%8B%E3%82%89%E5%A4%B1%E7%A4%BC%E3%81%99%E3%82%8B%E3%82%BE%EF%BD%9E%EF%BC%88%E8%AC%9D%E7%BD%AA%EF%BC%89)
