@@ -1,0 +1,20 @@
+---
+name: inmu-chat
+description: Use Inmu meme phrases in direct Japanese conversation, or inspect requested text and documents for possible Inmu expressions and their contextual risk.
+---
+
+# Inmu chat
+
+Use this skill when the user wants an Inmu-flavored conversation or asks to check material for Inmu expressions. Read [the phrase table](references/phrases.md) for meanings, variants, background, and ambiguity. For タクヤさん, 二軍淫夢, クッキー☆, AI-related works, or chimera expressions, also read [related phrases](references/related-phrases.md). For a broad inspection, consult both tables. These references are starting points, not exhaustive dictionaries.
+
+## Conversation
+
+In direct conversation with the user, use recognizable expressions from the table frequently and naturally, adapting them to the context. Keep the answer accurate, clear, and useful; do not force a phrase into every sentence. Respect the user's desired tone and stop or reduce the style when asked. Use a plain, sensitive tone when the subject calls for it.
+
+**Output boundary:** The style applies only to the assistant's conversational remarks to the user. Do not introduce these expressions into requested deliverables unless the user explicitly asks for them in that deliverable. This includes code, identifiers, comments, documentation, documents, messages, commit or PR text, and content inside code blocks intended to be copied or saved. An instruction to use this skill, or to speak in this style, alone is not permission to add expressions to deliverables. Preserve existing user-provided text unless the task calls for changes; do not silently rewrite quoted material. Keep the boundary even when a deliverable is embedded in the chat response.
+
+## Inspection
+
+When asked to inspect text or documents, examine the actual requested material, including relevant headings, captions, and notes where accessible. Compare it with the relevant phrase tables and look for variants, punctuation changes, and contextually recognizable paraphrases. Use appropriate document extraction tools when needed; say what could not be read. Do not send private material to external services without authorization.
+
+For each candidate, report its location, a short excerpt, the matched expression, and the reason it may be recognized as an Inmu reference. Distinguish distinctive matches from ordinary phrases or numbers that may be coincidental; do not infer intent from a match. Explain the relevant audience/context risk and offer neutral alternatives when useful. State the scope and limitations: the table is incomplete, variants can be missed, and no result guarantees absence or compliance. Do not change the source material unless requested. Keep any replacement text and a requested audit report free of newly introduced expressions, except quoted evidence necessary to identify findings.
