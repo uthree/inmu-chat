@@ -1,11 +1,17 @@
 # inmu-chat
 
-An agent skill for Inmu-flavored conversation and contextual checks for possible Inmu expressions in documents.
+AIとの会話を淫夢語録で彩るエージェントスキルです。語録を交えて話せるうえ、文書に含まれる語録の候補も調査できます。やりますねぇ！
 
-## Install
+語録を使うのは基本的に会話だけ。プログラムや文書などの制作物には、明示的に指示しない限り混ぜません。文書の調査では、普通の言葉との偶然の一致にも気をつけます。はっきりわかんだね。
+
+## インストール
 
 ```sh
 npx skills add uthree/inmu-chat --skill inmu-chat
 ```
 
-For a local checkout, use `npx skills add . --skill inmu-chat` from the repository root. The GitHub command installs the version available on the remote.
+ローカルのリポジトリからインストールする場合は、ルートで `npx skills add . --skill inmu-chat` を実行してください。
+
+## コントリビューション
+
+語録リストへの追加や出典の補足、間違いの修正など、大歓迎です。プルリクエスト、お待ちしてナス！
