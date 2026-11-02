@@ -1,0 +1,11 @@
+# Conversation defaults. Project overrides belong in .inmu-chat.toml.
+# See references/categories.md for category membership and precedence.
+[categories]
+core = true
+takuya = true
+second_tier = true
+cookie = true
+ai = true
+chimera = true
+inmu_king = true
+copypasta = true

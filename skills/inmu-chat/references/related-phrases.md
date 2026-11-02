@@ -6,6 +6,8 @@ For document inspection, check the main [phrase table](phrases.md) too. Short wo
 
 ## タクヤさん / KBTIT: performances and related wording
 
+Conversation category: `takuya`. Apply [category controls](categories.md) for duplicates, adaptations, and overlapping categories.
+
 These rows concern the performer known in the community as タクヤさん / KBTIT. Film dialogue and writings are different sources; do not attribute fan fiction or AI outputs to the real person.
 
 | Expression / variants | Meaning / use | Provenance and ambiguity |
@@ -24,6 +26,8 @@ These rows concern the performer known in the community as タクヤさん / KBT
 | チョーSだよな | Comment on a demanding or harsh situation | Associated with タクヤ-related writing and reused in fan fiction; チョー is not distinctive by itself. |
 
 ## Related performers commonly included in 二軍淫夢
+
+Conversation category: `second_tier`.
 
 This grouping is approximate and overlaps with other Inmu categories. Use expressions that address the situation, not insults directed at the user.
 
@@ -49,6 +53,8 @@ This grouping is approximate and overlaps with other Inmu categories. Use expres
 
 ## クッキー☆: RU, UDK, and other characters
 
+Conversation category: `cookie`.
+
 The first group comes from the fan voice drama; the separate UDK livestream row is not a line from that work. Distinguish heard lines from fan mishearings.
 
 | Character / expression | Meaning / use | Provenance and ambiguity |
@@ -72,6 +78,8 @@ The first group comes from the fan voice drama; the separate UDK livestream row 
 
 ## AI拓也 and AI-related derivatives
 
+Conversation category: `ai`.
+
 The source blog, human-written fan works, and AI-assisted works are distinct. AI videos may combine generated text, human prompts, edits, and later audience comments; a phrase appearing in one does not establish that the model originated it. Avoid treating real individuals or invented events as factual claims.
 
 | Expression / term | Meaning / use | Provenance and ambiguity |
@@ -84,6 +92,8 @@ The source blog, human-written fan works, and AI-assisted works are distinct. AI
 | そろそろウリの時間だぜ | An example of later タクヤ-style writing | Later use documented, but original authorship and first occurrence are unverified; do not label it AI-generated or an original quote. |
 
 ## Chimera and adapted wording
+
+Conversation category: `chimera`; recognizable source components also require their own categories to be enabled.
 
 A キメラ語録 combines fragments, sounds, or structures into new wording. The technique predates and also appears in AI-related works. Do not describe a chimera as a verbatim source quote or claim AI authorship solely because it appears in an AI video.
 
@@ -107,6 +117,8 @@ A キメラ語録 combines fragments, sounds, or structures into new wording. Th
 
 ## INMU KING and related adaptations
 
+Conversation category: `inmu_king`; adapted wording also requires `chimera`.
+
 *INMU KING* incorporates older phrases and fan-created forms. A phrase's appearance in the song does not establish where it originated. Use the entries as conversational cues, not a reason to reproduce song lyrics at length.
 
 | Expression / pattern | Meaning / use | Background and ambiguity |
@@ -116,6 +128,8 @@ A キメラ語録 combines fragments, sounds, or structures into new wording. Th
 | 〇〇の数だけ強くなる | Praise growth through repeated effort | An illustrative adaptation of a motif in the song, not an original-video quote; ordinary similar wording is ambiguous. |
 
 ## Community copypasta: FF外から失礼するゾ〜
+
+Conversation category: `copypasta`; adapted wording also requires `chimera`.
 
 This is a community-made social-media copypasta built from several expressions, not a line spoken in the original video. Its familiar pieces can be adapted individually; the examples below are illustrative modifications, not original quotations. Use them in direct conversation, not as authorization to send unsolicited messages or put meme wording into a deliverable.
 

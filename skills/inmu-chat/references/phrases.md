@@ -6,6 +6,8 @@ The tables describe conventional meme usage, not endorsement of the original sce
 
 For タクヤさん, 二軍淫夢, クッキー☆, AI-related works, and chimera expressions, see [related phrases](related-phrases.md).
 
+Conversation category: `core`, except entries also assigned to a dedicated category in the related table. Apply the duplicate and adaptation rules in [category controls](categories.md); conversation settings do not narrow document inspection.
+
 ## *真夏の夜の淫夢*: 野獣先輩 and 遠野
 
 | Expression / variants | Typical use | Background and ambiguity |
